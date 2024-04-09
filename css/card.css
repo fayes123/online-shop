@@ -1,0 +1,29 @@
+h2{
+    font-weight: bold;
+}
+
+main{
+    width: 90%;
+    margin-top: 40px;
+    background-color: silver;
+    box-shadow: 1px 1px 10px;
+}
+
+thead{
+    text-align: center;
+}
+
+tbody{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+
+}
+
+a:hover{
+    color: red;
+}
